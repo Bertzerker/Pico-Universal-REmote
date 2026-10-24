@@ -1,0 +1,28 @@
+# Local credentials and device backups
+settings.json
+local_settings.h
+pico_backup/
+
+# Generated firmware and downloaded dependencies
+combined_test/build/
+bluetooth_test/build/
+bluetooth_build/
+pico_toolchain/
+pico-examples/
+pico-sdk-tools/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+*.dis
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Pico Remote Schematic/gemini-code-*.txt
