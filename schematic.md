@@ -2,7 +2,7 @@
 
 ```text
                  Raspberry Pi Pico 2 W
-              ┌─────────────────────────┐
+               ┌─────────────────────────┐
  USB 5 V ──────┤ VBUS / pin 40           │
  Ground ───────┤ GND / pin 38            │
                │                         │
